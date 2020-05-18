@@ -1,4 +1,4 @@
-# Classical Aerodynamics with Python
+﻿ASDsdad# Classical Aerodynamics with Python
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](None)
 [![License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/barbagroup/AeroPython/raw/master/LICENSE)
